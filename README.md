@@ -33,17 +33,6 @@
 - (HTML, CSS, JavaScript)
 - Webpack
 ```
-
--  Frameworks / Libraries
-```bash
-```
-
--  Technologies used
-
-```bash
-- Git(version control)
-``` 
-
 ### Tech Stack <a name="tech-stack"></a>
 - HTML
 - CSS
