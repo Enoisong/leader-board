@@ -10,10 +10,10 @@
 
 body {
   color: #fff;
-  background-image: 
+  background-image:
     linear-gradient(to right bottom, #be915a9c, #ffffff09),
     url("./assets/main.jpg");
-  background-repeat: no repeat;
+  background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
   font-family: "Chakra Petch", sans-serif;
@@ -54,11 +54,11 @@ body {
 
 .scores ul {
   border: 2px solid #000;
-    margin-top: 20px;
-    max-height: 35vh;
-    overflow-y: scroll;   
-    scrollbar-color: #d4aa70 #e4e4e4;
-    scrollbar-width: thin;
+  margin-top: 20px;
+  max-height: 35vh;
+  overflow-y: scroll;
+  scrollbar-color: #d4aa70 #e4e4e4;
+  scrollbar-width: thin;
 }
 
 .scores ul li {
@@ -113,8 +113,7 @@ button:active {
   color: white;
 }
 
-
-@media only screen and (max-width:600px) {
+@media only screen and (max-width: 600px) {
   .container {
     display: flex;
     flex-direction: column-reverse;
