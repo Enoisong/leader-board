@@ -82,7 +82,7 @@ $ npm start
 
 #### Open page in browser
 ```bash
-$ runs on http://localhost:8084/
+$ runs on http://localhost:8081/
 ```
 
 ### Install
