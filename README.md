@@ -53,7 +53,7 @@
 
 <!-- LIVE DEMO -->
 ## 🚀 Live Demo <a name="live-demo"></a>
- Available after merge.
+ [Go Live](https://enoisong.github.io/leader-board/)
 
 ## 💻 Getting Started <a name="getting-started"></a>
 clone from repository: https://github.com/Enoisong/leader-board.git
